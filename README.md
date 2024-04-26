@@ -1,4 +1,5 @@
 Avaliação DESENVOLVIMENTO WEB II - Victor Manoel Martins 
+
 Como Realizar esta avaliação ?
 Crie um repositório no seu github com o nome "FATEC_DES_WEB2_2024_Avaliacao1"
 Publicar no Teams o repositório que será avaliado pelo professor Orlando.
@@ -10,7 +11,6 @@ Registro Acadêmico (R.A.)
 Placa do Carro ou Moto
 Para poder fazer uso do estacionamento, o setor de vigilância irá conferir se o aluno e carro estão cadastrados.
 
-alt text
 
 1- DashBoard - Área de login/logout
 Com uso de sessões (sessions), criar uma área de login. Permitir encerrar sessão (logout). Para realizar login/logout, necessário ter um único login e senha.
@@ -41,5 +41,6 @@ Seu sistema terá um botão "Visualizar motos". Ao clicar, deve carregar uma pá
 Tecnologias: PHP Estruturado.
 
 *-------------Avaliador------------*
+
 GIT HUB | Professor Orlando Saraiva
 - https://github.com/orlandosaraivajr
